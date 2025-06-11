@@ -31,9 +31,9 @@ This is a great starting point for building voice-enabled or smart customer serv
 
 **Frontend**
 - HTML5, CSS3
-- JavaScript (Vanilla or React if used)
+- JavaScript
 
 **Backend (Optional or planned)**
 - Node.js + Express
-- OpenAI API (or similar LLM)
+- OpenAI API
 - Dotenv for API key management
